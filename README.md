@@ -29,4 +29,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## License
 
 Licensed under the [MIT License](LICENSE). Other license options are listed in [licenses/](licenses/README.md).
-"# ChatGpt-lag-fixer" 
